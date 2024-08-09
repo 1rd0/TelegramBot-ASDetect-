@@ -1,7 +1,7 @@
 # ASD Detection Telegram Bot
 <a>
 
-<img style = "height:'226',width:'200'" src="https://i.ibb.co/fdXnc7L/DALL-E-logo-design-for-ASD-detection.webp" alt="DALL-E-logo-design-for-ASD-detection" border="0"></a>
+<img style = "height:60px; width: 100px;" src="https://i.ibb.co/fdXnc7L/DALL-E-logo-design-for-ASD-detection.webp" alt="DALL-E-logo-design-for-ASD-detection" border="0"></a>
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
