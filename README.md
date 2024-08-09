@@ -1,8 +1,5 @@
 # ASD Detection Telegram Bot
-
-![ASD Detection Logo](![image](https://github.com/user-attachments/assets/07d1f3d5-c955-457b-b270-54ced3c5356d)
-)
-
+<a href="https://ibb.co/WvHPT1j"><img src="https://i.ibb.co/fdXnc7L/DALL-E-logo-design-for-ASD-detection.webp" alt="DALL-E-logo-design-for-ASD-detection" border="0"></a>
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
