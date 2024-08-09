@@ -1,6 +1,7 @@
 # ASD Detection Telegram Bot
 
-![ASD Detection Logo](path/to/your/logo.png)
+![ASD Detection Logo](![image](https://github.com/user-attachments/assets/07d1f3d5-c955-457b-b270-54ced3c5356d)
+)
 
 ## Table of Contents
 
