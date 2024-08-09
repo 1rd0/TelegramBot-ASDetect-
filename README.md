@@ -49,3 +49,6 @@ To set up and run the bot locally, follow these steps:
 - Replace `"YOUR-TELEGRAM-BOT-TOKEN"` with your actual Telegram Bot API token.
 - Make sure to add a `requirements.txt` file listing all the dependencies.
 - You can add more sections like "Contributing," "FAQ," etc., as needed.
+
+- if you interesting here you can get acquainted with the development of the model
+- <a href="">
