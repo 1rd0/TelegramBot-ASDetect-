@@ -33,18 +33,36 @@ ASD Detection Telegram Bot is a tool designed to help identify Autism Spectrum D
 - **Docker**: Containerization for easy deployment.
 
 ## Installation Guide
+# Autism Detection Bot
+
+This project is a Telegram bot designed to classify images as either 'Autism' or 'NonAutism' based on facial features. The bot uses a pre-trained deep learning model for image classification, allowing users to send a photo to the bot and receive a prediction.
+
+## Features
+
+- **Image Classification:** The bot classifies images into two categories: 'Autism' or 'NonAutism'.
+- **Simple Commands:** The bot responds to the `/start` and `/help` commands.
+- **Automated Image Processing:** Users can send images to the bot, and it will automatically process and classify them.
+
+## Installation
+
+To set up and run the bot locally, follow these steps:
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed on your system:
+- Python 3.7 or higher
+- [Telegram Bot API Token](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
+- TensorFlow
+- Python packages: `python-telegram-bot`, `tensorflow`, `numpy`, `Pillow`
 
-- Python 3.8 or higher
-- Docker (optional, for containerization)
-- Telegram account and bot token
-
-### Installation Steps
+### Setup Instructions
 
 1. **Clone the Repository**
+
    ```bash
-   git clone https://github.com/yourusername/asd-detection-bot.git
-   cd asd-detection-bot
+   git clone https://github.com/your-username/autism-detection-bot.git
+   cd autism-detection-bot
+
+### Instructions:
+- Replace `"YOUR-TELEGRAM-BOT-TOKEN"` with your actual Telegram Bot API token.
+- Make sure to add a `requirements.txt` file listing all the dependencies.
+- You can add more sections like "Contributing," "FAQ," etc., as needed.
